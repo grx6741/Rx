@@ -1,0 +1,2 @@
+# Rx
+Nix like language
